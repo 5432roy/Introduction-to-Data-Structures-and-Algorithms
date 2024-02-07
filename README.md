@@ -2,7 +2,7 @@
 
 ## CSE 101
 
-This class used `C` and `C++`
+This class used `C` and `C++`. Please check the indiviual README for the usage and implementation details.
 
 ### List of Content for this course
 | Assignment | Description |
