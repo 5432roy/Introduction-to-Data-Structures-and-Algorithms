@@ -9,6 +9,7 @@ This class used `C` and `C++`
 | ----------- | ----------- |
 | pa1 | Linked List ADT |
 | pa2 | Graph ADT using adjacency List from pa1 |
+| pa3 | Directed graph with DFS |
 
 
 
