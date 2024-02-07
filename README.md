@@ -7,9 +7,12 @@ This class used `C` and `C++`. Please check the indiviual README for the usage a
 ### List of Content for this course
 | Assignment | Description |
 | ----------- | ----------- |
-| pa1 | Linked List ADT |
-| pa2 | Graph ADT using adjacency List from pa1 |
+| pa1 | Linked list ADT |
+| pa2 | Graph ADT using adjacency list from pa1 |
 | pa3 | Directed graph with DFS |
+| pa4 | Matrix using list ADT |
+| Projects below are in `C++`| |
+| pa5 | Linked list ADT |
 
 
 
