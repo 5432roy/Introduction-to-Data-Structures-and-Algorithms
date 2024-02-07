@@ -13,8 +13,9 @@ This class used `C` and `C++`. Please check the indiviual README for the usage a
 | pa4 | Matrix using list ADT |
 | Projects below are in `C++`| |
 | pa5 | Linked list ADT |
-| pa6 | Implement BigInteger using linked list from pa5 |
-| pa7 | Implement Dictionary using binary tree ADT (unbalanced) |
+| pa6 | Implement BigInteger (unlimited value integer) using linked list from pa5 |
+| pa7 | Implement dictionary using binary tree ADT (unbalanced) |
+| pa8 | Using red-black tree to make dictionary |
 
 
 ## Warning for plagiarism
