@@ -2,12 +2,14 @@
 
 ## CSE 101
 
+This class used `C` and `C++`
+
 ### List of Content for this course
 | Assignment | Description |
 | ----------- | ----------- |
 | pa1 | Linked List ADT |
 | pa2 | Graph ADT using adjacency List from pa1 |
- 
+
 
 
 ## Warning for plagiarism
