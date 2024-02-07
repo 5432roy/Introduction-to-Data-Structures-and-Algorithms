@@ -1,12 +1,13 @@
 # Introduction-to-Data-Structures-and-Algorithms
 
-## CSE 101 At UCSC 2023 Fall
+## CSE 101
 
 ### List of Content for this course
 | Assignment | Description |
 | ----------- | ----------- |
 | pa1 | Linked List ADT |
-
+| pa2 | Graph ADT using adjacency List from pa1 |
+ 
 
 
 ## Warning for plagiarism
