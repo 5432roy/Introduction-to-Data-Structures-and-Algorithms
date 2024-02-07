@@ -14,7 +14,7 @@ This class used `C` and `C++`. Please check the indiviual README for the usage a
 | Projects below are in `C++`| |
 | pa5 | Linked list ADT |
 | pa6 | Implement BigInteger using linked list from pa5 |
-
+| pa7 | Implement Dictionary using binary tree ADT (unbalanced) |
 
 
 ## Warning for plagiarism
